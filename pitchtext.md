@@ -1,20 +1,24 @@
 pitch
 =====
 
-Let me tell you about my hell. I'm a new teacher at a university. I've just come from one where I designed 
-and taught a course with my friend Jim. At my new university I've just been asked to teach two technology courses at short notice that are hopelessly outdated.
+Right now education is more and more open for students taking courses. But we're tweak-ed and we make the revolution of openness really work for university teachers.
 
-But we want to flip the classroom, and redesign our whole degree for the brave new world where students expect better courses than they ever have before.
+Can I tell you my pain? I'm a new teacher at a university. I've just come from one where I designed 
+and taught a course with my friend Jim. At my new university I've just been asked to teach two technology courses at short notice that are hopelessly outdated. And I have to build this course manually.
 
-What if I didn't have to rebuild the course from an empty page. What if I could simply click a button, and Jim's and my course splits. We both have it. What if we could see how each the changes we make to our courses, and pull and push them in.  
+And we have to flip the classroom, and redesign our whole degree for this brave new world where students expect much more from their courses than they ever have before. 
 
-I know who the heroes in my field are. Who my trusted colleagues are. I don't want to have to search some massive repositories of open content on twitter, edmodo, or even open courseware, and piece it all together. I want to be able to clone and tweak my friend's courses. I want them to be able to copy mine. I want us to be able to work together.
+If this was publishing papers, they'd be cited, and my h-index that academics are promoted on, would go up. But even though universities care more about teaching, and there's more pressure on academics to flip the classroom, change their courses for a new teaching model, there's no citation index for teaching.
 
-Right now education is more and more open for students taking courses. But we're tweak-ed and we want to bring the revolution of openness to how teachers create and update their courses.
+What if all that changed.
 
-I teach my students to collaborate. Surely I should be able to do it collaboratively.
+What if Jim and I could click a button, and Jim's and my course splits. We both have it. What if we could see how each the changes we make to our courses, and pull and push them in.  
 
-I'm not alone. Armando teaches a course at Berkely. His teaching assistant went to Hawaii and teaches it there. But the infrastructure doesn't help us do it. My friend Peter uses a MOOC as a resource in his course. But it's just recommended reading because he can't adjust it to fit what he wants to teach without rebuilding the whole dang thing.
+Armando's teaching assistant went to Hawaii, and teaches the course there. What if he could click a button to clone it and it counted as a citation for Armando?
+
+What if my friend Peter could clone the MOOC that he sets as a reading assignment in his course, and tweak it so it really fits his course.
+
+I teach my students to collaborate. Surely I should be able to do it collaboratively. Surely all this content we're publishing should count like publications do.
 
 Education is at the stage the software world was before GitHub. It's becomming more open. But it hasn't got the sharing model, how we pull and push our changes, right yet. And now we're really starting to need it.
 
